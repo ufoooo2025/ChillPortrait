@@ -7,6 +7,12 @@
 - **背景模式**：按 **Ctrl+Alt+F10** 将游戏无边框铺满目标屏幕。普通应用可以盖在上面，鼠标可以穿透，动画和音乐在失焦时继续。
 - **托盘控制**：右键通知区域里的 Chill Portrait 图标，可以恢复交互、切换模式或打开原版「结束通话」确认框。
 
+## 竖屏效果对比 / Portrait comparison
+
+| 原版竖屏 / Before | 启用 Chill Portrait / After |
+| :---: | :---: |
+| <img src="docs/images/portrait-before.png" width="320" alt="原版竖屏，Satone 被裁在画面右侧 / Original portrait view with Satone cropped at the right edge"> | <img src="docs/images/portrait-after.png" width="320" alt="启用模组后，Satone 居中，播放器与底部按钮分行 / Modded portrait view with Satone centered and the player on a separate row"> |
+
 ## 安装
 
 1. 在 [GitHub Releases](https://github.com/ufoooo2025/ChillPortrait/releases/latest) 下载带有 Windows 安装器的 ZIP，并完整解压。
