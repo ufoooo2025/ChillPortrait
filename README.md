@@ -1,6 +1,6 @@
 # Chill Portrait
 
-**把 Satone 放到右侧竖屏。** Chill Portrait 是《Chill with You : Lo-Fi Story》Windows Steam 版的非官方模组。它重新安排日常房间的竖屏构图和界面，也能把游戏作为可穿透的背景留在副屏。
+**Chill Portrait** 是《Chill with You : Lo-Fi Story》Windows Steam 版的非官方竖屏适配插件。它为日常房间调整竖屏构图和界面，并支持鼠标穿透的背景模式。
 
 - **竖屏构图**：把 Satone 移回画面中央，调整番茄钟、侧栏和底部播放器。
 - **镜头远近**：在竖屏日常房间，按住 **Ctrl** 向上滚动拉近，向下滚动拉远。调整会自动保存。
