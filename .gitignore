@@ -1,0 +1,6 @@
+/dist/
+/loader/
+*.zip
+*.dll
+*.log
+*.cfg
